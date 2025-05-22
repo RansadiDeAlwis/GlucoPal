@@ -60,6 +60,11 @@ Our goal: eliminate the need for painful and costly finger-prick methods through
 
 ---
 
+## Testing 
+
+![testing - frame at 0m6s](https://github.com/user-attachments/assets/0e1d9be2-4969-4f47-8db1-878491923e6e)
+
+
 ## 🔐 Ethics & IP
 
 - Ethical data collection approval in progress
