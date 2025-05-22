@@ -74,6 +74,7 @@ A custom 1D version of ResNet34 was implemented using **PyTorch** for time-serie
  
 ![download (1)](https://github.com/user-attachments/assets/1a21dd73-3e03-404a-88e3-b61d672e2fc5)
 
+## Testing the model 
 ![download (2)](https://github.com/user-attachments/assets/eb929d8a-28e6-4179-bc0e-f3dd6f8972ad)
 
 ---
