@@ -46,7 +46,7 @@ GlucoPal is designed with **IoT connectivity and cloud-based data management**, 
 ---
 
 ### Data Flow
-ESP32 → MQTT (AWS IoT Core) → AWS Lambda → S3 + DynamoDB → Visualization / Notifications
+ESP32 → AWS → ML Model → ESP32 → Display
 
 
 ---
