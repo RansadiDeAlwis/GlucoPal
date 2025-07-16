@@ -39,11 +39,10 @@ GlucoPal is designed with **IoT connectivity and cloud-based data management**, 
 
 | Service | Role |
 |----------|------|
-| **AWS IoT Core (MQTT)** | Secure transmission of glucose readings |
+
 | **AWS Lambda** | Serverless preprocessing, validation, and forwarding |
 | **Amazon S3** | Stores raw and processed PPG signal data, logs, backups |
-| **Amazon DynamoDB** | Manages structured glucose records with timestamps |
-| **AWS SNS (Optional)** | Sends alerts to patients/guardians for abnormal readings |
+
 
 ---
 
