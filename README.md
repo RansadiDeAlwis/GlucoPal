@@ -98,14 +98,6 @@ ESP32 → AWS → ML Model → ESP32 → Display
 
 ---
 
-## 🖥️ Visualization & Monitoring
-
-- **AWS S3**: For secure data logging of raw signals and glucose estimations.
-- **AWS DynamoDB**: For structured storage of patient glucose history.
-- **Web Dashboard / Node-RED (Optional)**: For live data monitoring.
-- **AWS SNS**: For real-time alerts to caregivers or healthcare providers.
-
----
 
 ## ![Testing Frame](https://github.com/user-attachments/assets/0e1d9be2-4969-4f47-8db1-878491923e6e)
 
