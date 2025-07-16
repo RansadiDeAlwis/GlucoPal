@@ -39,7 +39,6 @@ GlucoPal is designed with **IoT connectivity and cloud-based data management**, 
 
 | Service | Role |
 |----------|------|
-
 | **AWS Lambda** | Serverless preprocessing, validation, and forwarding |
 | **Amazon S3** | Stores raw and processed PPG signal data, logs, backups |
 
